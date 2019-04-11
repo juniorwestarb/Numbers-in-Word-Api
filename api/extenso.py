@@ -134,7 +134,7 @@ def validaNegativoeZero(num):
         return "menos "
     return ""
 
-def converte(num):
+def converter(num):
     result = validaNegativoeZero(num)
     numero=str(num)
     numero=numero.zfill(9)+numero
