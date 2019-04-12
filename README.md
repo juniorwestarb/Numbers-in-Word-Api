@@ -3,7 +3,8 @@ Repositório para validação do teste de API de transformação de números par
 
 Preparação de ambiente:
 
-Instalar (se acaso não tiver) o Python 3.
+Instalar (se acaso não tiver) o Python 3 e o gerenciador de pacotes PIP (sudo apt install python3-pip NO DEBIAN).
+
 Na pasta /API do repositório, executar o comando:
 >>pip install -r requirements.txt
 
