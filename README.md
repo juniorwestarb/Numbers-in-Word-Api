@@ -10,6 +10,7 @@ Na pasta /API do repositório, executar o comando:
 Execução da API:
 Executar no Terminal dentro da pasta /API:
 >> python app.py 
+
 Acessar o Endpoint pelo endereço: http://127.0.0.1:3000/{numero}
 
 Se necessário, pode ser executado via Docker utilizando o Dockerfile na pasta /API.
