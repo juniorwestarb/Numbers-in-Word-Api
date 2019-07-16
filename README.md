@@ -1,4 +1,4 @@
-# teste_people_ti
+# Numbers in Word
 Repositório para validação do teste de API de transformação de números para extenso.
 
 Preparação de ambiente:
